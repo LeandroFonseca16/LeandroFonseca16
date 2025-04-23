@@ -40,4 +40,4 @@ Projects = {
 [![Linkedin: Leandrofonseca](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/leandro-fonseca-a853242a4/)
 [![Gmail: leandrofonseca](https://img.shields.io/badge/-Gmail-%23334?style=flat&logo=gmail&logoColor=white)](mailto:leandro.fonseca1621@gmail.com)
 [![Codeforces: leandro_ff](https://img.shields.io/badge/codeforces-1574-%2303a89e)](https://codeforces.com/profile/leandro_ff)
-[![Github: LeandroFonseca16](https://img.shields.io/badge/Made%20by-Leandro%Fonseca-%23ea004f?style=flat)](https://github.com/LeandroFonseca16)
+[![Github: LeandroFonseca16](https://img.shields.io/badge/Made%20by-Pablo%Araujo-%23ea004f?style=flat)](https://github.com/LeandroFonseca16)
