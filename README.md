@@ -4,8 +4,6 @@
 
 <!-- <img align='right' src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="200"> -->
 
-[![Github: LeandroFonseca16](https://img.shields.io/github/followers/pablo-aa?style=social)](https://github.com/LeandroFonseca16)
-
 <h3>Attention 🚨</h3>
 As you've already seen, my name is Leandro Fonseca and I'm a developer. Welcome to my Github, please feel free to get in touch with me 👋
 <!-- 
@@ -16,23 +14,59 @@ As you've already seen, my name is Leandro Fonseca and I'm a developer. Welcome 
 <h3> Programming world 🌎 </h3>
 
 ```javascript
-Interests = ['Web/app development', 'Competitive programming', 'Artificial inteligence', 'Entrepreneurship']  
+Interests = [
+  'Backend Engineering',
+  'Web/Mobile development',
+  'Clean Architecture & Hexagonal Architecture',
+  'Distributed systems',
+  'TDD & SOLID',
+  'Microservices',
+  'Competitive programming'
+]
 
 Skills = {
-        Frontend: ['Flutter', 'ReactJs', 'Typescript'],
-        Backend: ['NodeJs', 'Firebase'],
-        Design: ['Figma'],
-        Competitive_programming: ['C++', 'Codeforces'],
-        Languages: ['Javascript', 'Typescript', 'C#', 'PHP'],
+  Backend: {
+    Java: ['Spring Boot', 'Spring Security', 'JPA/Hibernate', 'Maven'],
+    Node: ['Express.js', 'NestJS', 'TypeScript', 'JWT', 'Prisma', 'Sequelize'],
+    Architecture: ['Clean Architecture', 'Hexagonal', 'Event-driven', 'SOLID', 'TDD'],
+    Databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+    Messaging: ['Kafka', 'RabbitMQ'],
+  },
+
+  Frontend: ['React', 'Next.js', 'TypeScript', 'TailwindCSS'],
+
+  Mobile: ['Flutter (Dart)', 'Design System', 'Reusable Components'],
+
+  DevOps: ['Docker', 'GitHub Actions', 'CI/CD', 'AWS (Lambda, EC2)', 'Codemagic'],
+
+  Tools: ['Git', 'GitFlow', 'Figma', 'Postman', 'Insomnia', 'Sonar'],
+  
+  Programming_languages: ['Java', 'TypeScript', 'Dart', 'JavaScript', 'C/C++'],
 }
-Projects = { 
-        FlowState: {
-            type: 'Web App',
-            description: 'The oficial platform to get focused',
-            status: 'building...',
-        },
-        Personal: ['Learning competitive programming', 'developing applications', 'Making some curious projects'],
+
+Projects = {
+  Backend: [
+    'Ticket Management System (Spring Boot + Clean Architecture)',
+    'Customer Registration & Email Service (Kafka Microservices)',
+    'MovieApp Backend (JWT + Role-based access)'
+  ],
+  
+  Fullstack: [
+    'React/Next.js platforms with API integration',
+    'Migration of legacy Angular modules to React'
+  ],
+
+  Mobile: [
+    'Flutter apps for Android/iOS with clean architecture and design system'
+  ],
+
+  Personal: [
+    'Competitive programming (Codeforces)',
+    'Experimenting with distributed systems',
+    'Building small products and automations'
+  ]
 }
+
 ```
 
 <h4> 👋 Get in touch </h4>
