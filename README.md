@@ -14,58 +14,24 @@ As you've already seen, my name is Leandro Fonseca and I'm a developer. Welcome 
 <h3> Programming world 🌎 </h3>
 
 ```javascript
-Interests = [
-  'Backend Engineering',
-  'Web/Mobile development',
-  'Clean Architecture & Hexagonal Architecture',
-  'Distributed systems',
-  'TDD & SOLID',
-  'Microservices',
-  'Competitive programming'
-]
+Interests = ['Backend', 'Web/Mobile Development', 'Distributed Systems'];
 
 Skills = {
-  Backend: {
-    Java: ['Spring Boot', 'Spring Security', 'JPA/Hibernate', 'Maven'],
-    Node: ['Express.js', 'NestJS', 'TypeScript', 'JWT', 'Prisma', 'Sequelize'],
-    Architecture: ['Clean Architecture', 'Hexagonal', 'Event-driven', 'SOLID', 'TDD'],
-    Databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-    Messaging: ['Kafka', 'RabbitMQ'],
-  },
-
-  Frontend: ['React', 'Next.js', 'TypeScript', 'TailwindCSS'],
-
-  Mobile: ['Flutter (Dart)', 'Design System', 'Reusable Components'],
-
-  DevOps: ['Docker', 'GitHub Actions', 'CI/CD', 'AWS (Lambda, EC2)', 'Codemagic'],
-
-  Tools: ['Git', 'GitFlow', 'Figma', 'Postman', 'Insomnia', 'Sonar'],
-  
-  Programming_languages: ['Java', 'TypeScript', 'Dart', 'JavaScript', 'C/C++'],
+  Backend: ['Java (Spring Boot)', 'Node.js', 'TypeScript', 'Kafka', 'Microservices'],
+  Frontend: ['React', 'Next.js', 'Flutter'],
+  Databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+  DevOps: ['Docker', 'CI/CD', 'AWS'],
 }
 
 Projects = {
-  Backend: [
-    'Ticket Management System (Spring Boot + Clean Architecture)',
-    'Customer Registration & Email Service (Kafka Microservices)',
-    'MovieApp Backend (JWT + Role-based access)'
+  Featured: [
+    'Java Clean Architecture APIs',
+    'Kafka Event-Driven Microservices',
+    'React & Next.js Applications',
+    'Flutter Mobile Apps',
   ],
-  
-  Fullstack: [
-    'React/Next.js platforms with API integration',
-    'Migration of legacy Angular modules to React'
-  ],
-
-  Mobile: [
-    'Flutter apps for Android/iOS with clean architecture and design system'
-  ],
-
-  Personal: [
-    'Competitive programming (Codeforces)',
-    'Experimenting with distributed systems',
-    'Building small products and automations'
-  ]
 }
+
 
 ```
 
